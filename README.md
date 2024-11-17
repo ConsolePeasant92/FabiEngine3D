@@ -1,6 +1,7 @@
 <img src="doc/image/logo.png" width="75%"/>
 
-`Development started on April 7, 2020.`
+> Development started on April 7, 2020.  
+> Development ended on March 27, 2023.
 
 ## Features
 
@@ -93,7 +94,19 @@
 - [Performance](doc/markdown/PERFORMANCE.md)
 - [Miscellaneous](doc/markdown/MISCELLANEOUS.md)
 
-## Games
+## Screenshots
+
+### Model editor
+
+<img src="doc/image/model_editor.png" width="100%"/>
+
+### World editor
+
+<img src="doc/image/world_editor.png" width="100%"/>
+
+### Script editor
+
+<img src="doc/image/script_editor.png" width="100%"/>
 
 ### Starvation
 
